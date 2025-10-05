@@ -1,5 +1,5 @@
-streamlit
-ultralytics
-numpy
-pillow
+scikit-learn
+pandas
+xgboost
 matplotlib
+seaborn
